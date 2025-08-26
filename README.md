@@ -5,6 +5,22 @@ It is structured as **files with notes and corresponding practice PHP scripts**,
 
 ---
 
+## 📂 Folder Structure
+```
+php-fundamentals/
+├── 01-variables.md & 01-variables.php
+├── 02-strings.md & 02-strings.php
+├── 03-arrays.md & 03-arrays.php
+├── 04-loops.md & 04-loops.php
+├── 05-conditionals.md & 05-conditionals.php
+├── 06-functions.md & 06-functions.php
+├── 07-forms.md & 07-forms.php
+├── 08-include-require.md & 08-include-require.php
+├── 09-file-handling.md & 09-file-handling.php
+├── 10-cookies-sessions.md & 10-cookies-sessions.php
+├── 11-database-mysql.md & 11-database-mysql.php
+├── 12-oop.md & 12-oop.php
+```
 ---
 
 ## 📖 Topics Covered
@@ -39,5 +55,12 @@ git clone https://github.com/Divyanshi2408/php-fundamentalss.git
 - Run the corresponding .php file to practice.
 
 4. **Experiment and modify the code to deepen understanding.**
+
+---
+## 📣 Get in Touch
+Feel free to explore my portfolio and connect with me for any feedback, collaboration, or opportunities.
+
+- **LinkedIn**: [(https://www.linkedin.com/in/divyanshi-pal/)]
+- **Email**: [divyanshipal2808@gmail.com]
 
 
